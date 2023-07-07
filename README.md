@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from California</h3>
 
 - 👀 I’m interested in everything about tech such as programming and cyber security
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently enrolled in Harvards CS50 course!
 - 📫 How to reach me: harutyunkanoyan@protonmail.com
 
 <h3 align="left">Languages and Tools:</h3>
