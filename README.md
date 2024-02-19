@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harut Kanoyan</h1>
-<h3 A passionate developer from California</h3>
+<h3 align="center"> A passionate developer from California</h3>
 
 - 👀 I’m interested in everything about tech such as programming and cyber security
 - 📫 How to reach me: harutkanoyan1@gmail.com
