@@ -7,13 +7,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" width="40" height="40"/> </a> 
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.troubleshootyourself.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fvisual-studio-code-logo-1024x768.png&sp=1708305269T65f02fae81a11beb6de277bfb58ccc52f6a8cddaf885adc792412e6246db2ccc" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="40" height="40"/> </a> 
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
